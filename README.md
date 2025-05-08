@@ -29,7 +29,7 @@ Utilização de métodos HTTP (GET, POST, PUT, DELETE) para gerenciamento dos da
 🚀 Tecnologias Utilizadas
 Frontend: React, Vite, Axios, CSS Modules
 
-Backend: Node.js, Express, Prisma (com MongoDB ou outro banco de dados)
+Backend: Node.js, Express, Prisma (com MySQL)
 
 Ferramentas: Visual Studio Code, Postman, Git/GitHub
 
